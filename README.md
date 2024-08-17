@@ -16,7 +16,7 @@ The program also requires the sound library to run, which can be installed via t
 <ol type="1">
   <li>
     <p>
-      Open HexagonalMinesweeper.pde
+      Open <em>HexagonalMinesweeper.pde</em>
     </p>
     <div align="center">
       <img src="https://github.com/user-attachments/assets/9289403b-ccc5-4e64-b80c-78038c3a807c", alt="Processing 4 opened to HexagonalMinesweeper.pde">
